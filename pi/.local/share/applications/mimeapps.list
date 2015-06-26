@@ -1,0 +1,5 @@
+[Default Applications]
+inode/directory=pcmanfm.desktop
+
+[Added Associations]
+audio/x-wav=menu-xdg-X-Debian-Applications-Sound-xfce_mixer.desktop;

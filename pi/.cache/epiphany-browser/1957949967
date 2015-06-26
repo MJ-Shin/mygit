@@ -1,0 +1,107 @@
+var fc_isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var fc_isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var fc_isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+
+function clickAdvertisement(url){
+	var isIE = navigator.userAgent.toLowerCase().indexOf("msie") > 0;
+	
+	if(isIE) {
+	    var targetWndName = "MyWindow";  
+	    var link = document.createElement('a');
+	    document.body.appendChild(link);
+	    link.target = targetWndName;  
+	    link.href = url;  
+	    link.click();
+	} else {
+		window.open(url);
+	}
+}
+	
+	
+function displayFlashMoviePlayer(bean) {
+	var html = getFlashMoviePlayer(bean);
+	document.write(html);
+}
+
+function createFlashMoviePlayerId() {
+	return "NFP" + Math.floor(Math.random() * 1000000)
+}
+
+function getFlashMoviePlayer(bean) {
+	if (bean.layout.flashId == "null" || typeof(bean.layout.flashId) == "undefined") {
+		bean.layout.flashId = createFlashMoviePlayerId();
+	}
+	
+	var flashId = bean.layout.flashId;
+	var width = bean.layout.width;
+	var height = bean.layout.height;
+	var wmode = bean.layout.wmode;
+	var flashVar = "";
+	var bgColor = "#000000";
+	var host = bean.host;
+	
+	var swfURL = "";
+	var mini = bean.layout.mini;
+	if (host) { 
+		if ( '1' == mini ) {
+			swfURL += "http://" + host + "/flash/miniNFPlayer.swf?";
+		}
+		else {
+			swfURL += "http://" + host + "/flash/NFPlayer.swf?";		
+		}		
+	}
+	else {
+		if ( '1' == mini ) {
+			swfURL += "http://serviceapi.nmv.naver.com/flash/miniNFPlayer.swf?";
+		}
+		else {
+			swfURL += "http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?";		
+		}
+	}
+
+	// generate query string
+	var qsParam = "";
+	var qsParamBean = bean.qsParam;
+	for (field in qsParamBean) {
+		if (field != "toJSON") {
+			qsParam += "&" + field + "=" + eval("qsParamBean." + field);
+		}
+	}
+	swfURL += qsParam.substring(1, qsParam.length);
+	
+	// generate flash flashVar string
+	var flashVarBean = bean.flashVar;
+	for (field in flashVarBean) {
+		if (field == "callbackHandler") {
+			if (eval("flashVarBean." + field) != "null") {
+				flashVar += "&" + field + "=" + eval("flashVarBean." + field);
+			}
+		} else {
+			flashVar += "&" + field + "=" + eval("flashVarBean." + field);
+		}
+	}
+	flashVar = flashVar.substring(1, flashVar.length);
+	
+	return createFlashMoviePlayerTag( swfURL, flashId, width, height, wmode, flashVar, bgColor);
+}
+
+function createFlashMoviePlayerTag(_swfURL_,_flashID_,_width_,_height_,_wmode_,_flashVars_,_bgColor_){
+	_wmode_ = (_wmode_ == undefined)? "transparent" : _wmode_;
+	_bgColor_ = (_bgColor_ == undefined)? "#000000" : _bgColor_;
+	_flashVars_ += "&jsCallable=true";
+	
+	if(fc_isIE && fc_isWin && !fc_isOpera){
+		_object_ ='<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="'+_width_+'" height="'+_height_+'" id="'+_flashID_+'" align="middle">';
+		_object_ += '<param name="allowScriptAccess" value="always" />';
+		_object_ += '<param name="quality" value="high" />'; 
+		_object_ += '<param name="movie" value="'+_swfURL_+'" />';
+		_object_ += '<param name="wmode" value="'+_wmode_+'" />'; 
+		_object_ += '<param name="allowFullScreen" value="true" />'; 
+		_object_ += '<param name="bgcolor" value="'+_bgColor_+'" />'; 
+		_object_ += '<param name="FlashVars" value="'+_flashVars_+'">';
+		_object_ += '</object>';
+	}else{
+		_object_ = '<embed src="'+_swfURL_+'" quality="high" wmode="'+_wmode_+'" FlashVars="'+_flashVars_+'" bgcolor="'+_bgColor_+'" width="'+_width_+'" height="'+_height_+'" id="'+_flashID_+'" name="'+_flashID_+'" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />'; 
+	}
+	return _object_;
+}

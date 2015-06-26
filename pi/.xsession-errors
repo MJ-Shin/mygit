@@ -1,0 +1,1998 @@
+Xsession: X session started for pi at Wed May  6 23:36:13 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2436): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2433): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2433): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2433): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2436): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2433): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+ALSA lib control.c:951:(snd_ctl_open_noupdate) Invalid CTL Ăev:
+
+** (lxpanel:2433): WARNING **: volumealsa: Default ALSA device not valid - resetting to internal
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=2
+
+(lxpanel:2433): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+** (epiphany-browser:2495): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:2495): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:2495): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2433): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:2495): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxpanel:2433): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+Xsession: X session started for pi at Wed May  6 23:32:29 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2393): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2390): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(lxpanel:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2393): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2393): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2393): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2393): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2393): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=2
+
+(lxpanel:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+sendto failed with code -1 for char 2 and length 25.
+random.get : 1801224220
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxterminal:2447): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2447): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2447): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2447): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2447): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2447): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2447): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxterminal:2465): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxterminal:2465): Gtk-WARNING **: Unknown property: GtkTable.valign
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2621): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2621): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2621): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2390): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+cancel
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Xsession: X session started for pi at Thu May  7 00:17:25 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2387): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2385): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=2
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxpanel:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (epiphany-browser:2431): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:2431): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:2431): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:2431): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+
+(lxpanel:2385): GLib-GObject-CRITICAL **: g_object_get_data: assertion 'G_IS_OBJECT (object)' failed
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+** (lxpanel:2385): CRITICAL **: dhcpcd_rebind eth0: Broken pipe
+
+(lxterminal:2457): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2457): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2457): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2457): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2457): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2457): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2457): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2385): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 13082 requests (13082 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Thu May  7 00:33:06 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2450): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2453): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2450): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2450): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2453): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2450): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2450): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxterminal:2492): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2492): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2492): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2492): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2492): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2492): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2492): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2450): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+Xsession: X session started for pi at Thu May  7 00:32:41 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2385): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2382): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+** Message: wlan0: PREINIT
+** Message: wlan0: Not associated
+** Message: wlan0: Departed
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (lxpanel:2382): CRITICAL **: dhcpcd_rebind wlan0: Broken pipe
+Openbox-Message: Requested key "F13" does not exist on the display
+
+** (lxpanel:2382): CRITICAL **: dhcpcd_rebind wlan0: Broken pipe
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Xsession: X session started for pi at Thu May  7 00:32:21 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2379): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2382): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2379): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2379): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2379): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxterminal:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2448): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Xsession: X session started for pi at Thu May  7 00:32:23 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2491): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2488): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2488): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2488): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2488): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2488): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2488): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2488): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2488): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2488): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2491): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2491): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2491): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2491): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2491): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2488): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+** Message: wlan0: Not associated
+** Message: wlan0: Received scan results
+
+(lxpanel:2488): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxterminal:2528): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2528): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2528): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2528): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2528): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2528): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2528): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2488): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxpanel:2488): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2488): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2488): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Associated with ejlee's iphone
+** Message: Status changed to connecting
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 172.20.10.2/28
+** Message: Status changed to connected
+** Message: wlan0: Received scan results
+Xsession: X session started for pi at Thu May  7 00:32:21 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2418): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2417): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2418): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxterminal:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2455): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+** (epiphany-browser:2500): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:2500): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:2500): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:2500): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2417): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2417): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2417): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(lxpanel:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2604): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2604): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2604): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Leave as is
+Leave as is
+
+** (zenity:2607): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2607): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2607): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2621): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2621): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2621): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2633): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2633): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2633): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2644): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2644): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2644): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2655): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2655): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2655): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2666): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2666): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2666): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2687): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2687): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2687): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+1
+
+** (zenity:2694): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2694): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2694): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2417): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 58177 requests (58173 known processed) with 0 events remaining.
+Xsession: X session started for pi at Thu May  7 02:26:54 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2377): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2380): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2377): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2377): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2377): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2377): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2377): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2377): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2377): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2377): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2380): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2380): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2380): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2380): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2380): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2377): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2377): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxterminal:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2417): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2377): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Xsession: X session started for pi at Thu May  7 03:17:21 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2379): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2382): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2379): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2419): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+** (zenity:2630): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2630): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2630): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Leave as is
+Leave as is
+
+** (zenity:2633): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2633): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2633): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2648): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2648): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2648): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2659): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2659): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2659): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+0
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:2670): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2670): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2670): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+1
+
+** (zenity:2704): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2704): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2704): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2379): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 27303 requests (27299 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Thu May  7 04:44:51 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2384): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2381): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2381): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2381): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2381): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2381): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2381): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2381): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2381): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+** (lxpanel:2381): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(openbox:2378): GLib-CRITICAL **: Source ID 6 was not found when attempting to remove it
+
+(openbox:2378): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2381): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2384): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 1272 was not found when attempting to remove it
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 1779 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 1917 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 1948 was not found when attempting to remove it
+
+** (epiphany-browser:2751): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:2751): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:2751): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 1994 was not found when attempting to remove it
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:2751): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2148 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2507 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2535 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2575 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2630 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2682 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2695 was not found when attempting to remove it
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2861 was not found when attempting to remove it
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 2941 was not found when attempting to remove it
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+** Message: usb0: PREINIT
+** Message: usb0: Link is down
+** Message: usb0: Link is up, configuring
+** Message: Status changed to connecting
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 3044 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 3503 was not found when attempting to remove it
+** Message: usb0: Configured 192.168.42.31/24
+** Message: Status changed to connected
+
+(epiphany-browser:2751): GLib-CRITICAL **: Source ID 2115 was not found when attempting to remove it
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 3717 was not found when attempting to remove it
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(epiphany-browser:2751): GLib-CRITICAL **: Source ID 2326 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 4307 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 4352 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 4467 was not found when attempting to remove it
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 4583 was not found when attempting to remove it
+** Message: console message:  @0: Blocked a frame with origin "https://plus.google.com" from accessing a frame with origin "https://mail.google.com". Protocols, domains, and ports must match.
+
+
+(pcmanfm:2384): GLib-CRITICAL **: Source ID 4599 was not found when attempting to remove it
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2384): Gtk-WARNING **: Radio group does not contain an action with value '0'
+** Message: console message:  @0: Blocked a frame with origin "https://apis.google.com" from accessing a frame with origin "https://mail.google.com". Protocols, domains, and ports must match.
+
+** Message: console message:  @0: Blocked a frame with origin "https://talkgadget.google.com" from accessing a frame with origin "https://mail.google.com". Protocols, domains, and ports must match.
+
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxterminal:3372): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:3372): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:3372): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:3372): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:3372): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:3372): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:3372): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(epiphany-browser:2751): GLib-CRITICAL **: Source ID 7518 was not found when attempting to remove it
+
+(epiphany-browser:2751): GLib-CRITICAL **: Source ID 36508 was not found when attempting to remove it
+
+(openbox:2378): GLib-CRITICAL **: Source ID 15 was not found when attempting to remove it
+** Message: usb0: Link is down
+** Message: Status changed to disconnected
+** Message: usb0: Departed
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.2/tkinter/__init__.py", line 1426, in __call__
+    return self.func(*args)
+  File "/usr/lib/python3.2/idlelib/IOBinding.py", line 356, in save_as
+    self.text.focus_set()
+AttributeError: 'NoneType' object has no attribute 'focus_set'
+
+(lxterminal:3642): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:3642): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:3642): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:3642): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:3642): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:3642): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:3642): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+** (zenity:3667): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3667): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3667): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2381): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 99093 requests (98845 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Wed Jun 24 05:10:17 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (pcmanfm:2390): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (lxpanel:2387): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2387): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxterminal:2428): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2428): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2428): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2428): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2428): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2428): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2428): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-select-on-focus after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-entry-password-hint-timeout after class was initialised
+
+(pcmanfm:2390): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2390): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2390): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(pcmanfm:2390): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2390): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2390): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(pcmanfm:2390): Gtk-WARNING **: Radio group does not contain an action with value '0'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+cat: /proc/0/cmdline: No such file or directory
+
+** (lxpanel:2387): WARNING **: ltbp: fgets 'cat /proc/0/cmdline'
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2390): GLib-CRITICAL **: Source ID 3749 was not found when attempting to remove it
+
+(pcmanfm:2390): GLib-CRITICAL **: Source ID 4174 was not found when attempting to remove it
+
+(xfce4-mixer:2927): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(xfce4-mixer:2927): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(xfce4-mixer:2927): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(xfce4-mixer:2927): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(xfce4-mixer:2927): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(xfce4-mixer:2927): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(xfce4-mixer:2942): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(xfce4-mixer:2942): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(xfce4-mixer:2942): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(xfce4-mixer:2942): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(xfce4-mixer:2942): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(xfce4-mixer:2942): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(xfce4-mixer:2927): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-mixer:2951): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(xfce4-mixer:2951): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(xfce4-mixer:2951): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(xfce4-mixer:2951): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(xfce4-mixer:2951): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(xfce4-mixer:2951): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(xfce4-mixer:2951): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(xfce4-mixer:2961): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(xfce4-mixer:2961): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(xfce4-mixer:2961): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(xfce4-mixer:2961): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(xfce4-mixer:2961): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(xfce4-mixer:2961): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2390): GLib-CRITICAL **: Source ID 5552 was not found when attempting to remove it
+
+(pcmanfm:2390): GLib-CRITICAL **: Source ID 5686 was not found when attempting to remove it
+
+** (zenity:2983): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2983): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2983): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Force Headphones
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=1
+Headphones set
+
+** (zenity:2988): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:2988): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:2988): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+1
+
+(xfce4-mixer:2961): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+** (zenity:3000): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3000): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3000): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Leave as is
+Leave as is
+
+** (zenity:3005): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3005): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3005): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+1
+
+** (zenity:3018): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3018): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3018): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Force HDMI
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=2
+HDMI set
+
+** (zenity:3024): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3024): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3024): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+1
+
+** (zenity:3034): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3034): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3034): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+cancel
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=1
+
+** (zenity:3055): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3055): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3055): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Auto
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=0
+Auto set
+
+** (zenity:3061): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3061): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3061): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+1
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=2
+numid=3,iface=MIXER,name='PCM Playback Route'
+  ; type=INTEGER,access=rw------,values=1,min=0,max=2,step=0
+  : values=1
+
+** (zenity:3096): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3096): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3096): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2387): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 126685 requests (126681 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Wed Jun 24 07:48:31 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2382): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2385): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(pcmanfm:2385): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+
+(lxpanel:2382): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2423): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+Openbox-Message: Requested key "F13" does not exist on the display
+** Message: eth0: Link is up, configuring
+** Message: Status changed to connecting
+** Message: eth0: Configured 192.168.1.10/24
+** Message: Status changed to connected
+
+** (epiphany-browser:3089): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:3089): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:3089): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:3089): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1168 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 7722 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 12628 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 14875 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 15150 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 16235 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 18306 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 6460 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1183007 was not found when attempting to remove it
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:3089): WARNING **: Couldn't retrieve form data: The name org.freedesktop.secrets was not provided by any .service files
+
+(epiphany-browser:3089): GLib-GObject-CRITICAL **: g_closure_unref: assertion 'closure->ref_count > 0' failed
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1184019 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1184519 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1185053 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1185140 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1185204 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1186208 was not found when attempting to remove it
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1190729 was not found when attempting to remove it
+3348.836: 1915224064: 0x6361f000: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3348.849: 1915224064: 0x6361f000: decode: error: failed to decode with OMX, all data received 1: None
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1202915 was not found when attempting to remove it
+** Message: console message:  @0: Blocked a frame with origin "http://blog.naver.com" from accessing a frame with origin "http://blog.naver.com". The frame requesting access set "document.domain" to "naver.com", but the frame being accessed did not. Both must set "document.domain" to the same value to allow access.
+
+** Message: console message: http://t.static.blog.naver.net/mylog/versioning/Frameset-940371.js @1: TypeError: undefined is not an object (evaluating 'a.indexOf')
+
+3417.302: 1915224064: 0x61f7f780: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3417.314: 1915224064: 0x61f7f780: decode: error: failed to decode with OMX, all data received 1: None
+3425.820: 1915224064: 0x63654000: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3425.826: 1915224064: 0x63654000: decode: error: failed to decode with OMX, all data received 1: None
+3441.862: 1915224064: 0x67a820c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3441.870: 1915224064: 0x67a820c0: decode: error: failed to decode with OMX, all data received 1: None
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1193941 was not found when attempting to remove it
+3502.147: 1915224064: 0x6368ad80: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3502.173: 1915224064: 0x6368ad80: decode: error: failed to decode with OMX, all data received 1: None
+3502.908: 1915224064: 0x6368af00: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3502.921: 1915224064: 0x6368af00: decode: error: failed to decode with OMX, all data received 1: None
+3504.765: 1915224064: 0x630b5180: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3504.790: 1915224064: 0x630b5180: decode: error: failed to decode with OMX, all data received 1: None
+3506.419: 1915224064: 0x67a820c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3506.449: 1915224064: 0x67a820c0: decode: error: failed to decode with OMX, all data received 1: None
+3512.387: 1915224064: 0x6369a9c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3512.413: 1915224064: 0x6369a9c0: decode: error: failed to decode with OMX, all data received 1: None
+3514.423: 1915224064: 0x61f346c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3514.448: 1915224064: 0x61f346c0: decode: error: failed to decode with OMX, all data received 1: None
+3515.856: 1915224064: 0x67a82540: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3515.883: 1915224064: 0x67a82540: decode: error: failed to decode with OMX, all data received 1: None
+3519.411: 1915224064: 0x61d106c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3519.428: 1915224064: 0x61d106c0: decode: error: failed to decode with OMX, all data received 1: None
+3520.162: 1915224064: 0x6369a000: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3520.179: 1915224064: 0x6369a000: decode: error: failed to decode with OMX, all data received 1: None
+3521.195: 1915224064: 0x6369ac00: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3521.212: 1915224064: 0x6369ac00: decode: error: failed to decode with OMX, all data received 1: None
+3577.545: 1915224064: 0x6fe8a3c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3577.568: 1915224064: 0x6fe8a3c0: decode: error: failed to decode with OMX, all data received 1: None
+3585.891: 1915224064: 0x63f64300: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3585.918: 1915224064: 0x63f64300: decode: error: failed to decode with OMX, all data received 1: None
+3588.628: 1915224064: 0x630b5e40: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3588.650: 1915224064: 0x630b5e40: decode: error: failed to decode with OMX, all data received 1: None
+3593.001: 1915224064: 0x6369a9c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3593.031: 1915224064: 0x6369a9c0: decode: error: failed to decode with OMX, all data received 1: None
+3595.702: 1915224064: 0x61f34600: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3595.731: 1915224064: 0x61f34600: decode: error: failed to decode with OMX, all data received 1: None
+3598.287: 1915224064: 0x67a829c0: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3598.311: 1915224064: 0x67a829c0: decode: error: failed to decode with OMX, all data received 1: None
+3599.682: 1915224064: 0x628c5900: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3599.707: 1915224064: 0x628c5900: decode: error: failed to decode with OMX, all data received 1: None
+3601.371: 1915224064: 0x6369a600: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3601.393: 1915224064: 0x6369a600: decode: error: failed to decode with OMX, all data received 1: None
+3602.859: 1915224064: 0x6309f780: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3602.876: 1915224064: 0x6309f780: decode: error: failed to decode with OMX, all data received 1: None
+3604.303: 1915224064: 0x63610c00: waitForOutBufferFilled: error: wait for out buffer filled timed out: None
+3604.318: 1915224064: 0x63610c00: decode: error: failed to decode with OMX, all data received 1: None
+
+(epiphany-browser:3089): GLib-CRITICAL **: Source ID 1213841 was not found when attempting to remove it
+
+** (zenity:3563): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (zenity:3563): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (zenity:3563): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2382): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+openbox: ../../src/xcb_io.c:529: _XAllocID: Assertion `ret != inval_id' failed.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Xsession: X session started for pi at Fri Jun 26 02:36:58 UTC 2015
+localuser:pi being added to access control list
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Requested key "F13" does not exist on the display
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxpanel:2456): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+** (pcmanfm:2459): WARNING **: The directory '~/Templates' doesn't exist, ignoring it
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(pcmanfm:2459): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to connected
+** Message: eth0: CARRIER
+** Message: eth0: Configured 192.168.1.10/24
+
+(lxpanel:2456): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-scrolled-window-placement after class was initialised
+
+** (epiphany-browser:2497): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (epiphany-browser:2497): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+** (epiphany-browser:2497): WARNING **: Can't load fallback CSS resource: Failed to import: The resource at '/org/gnome/adwaita/gtk-fallback.css' does not exist
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:2497): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+Openbox-Message: Requested key "F13" does not exist on the display
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 837 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 2966 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 7122 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 8425 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 12321 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 13591 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 17070 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 18452 was not found when attempting to remove it
+
+(lxterminal:2574): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-bar-popup-delay after class was initialised
+
+(lxterminal:2574): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-can-change-accels after class was initialised
+
+(lxterminal:2574): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popup-delay after class was initialised
+
+(lxterminal:2574): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-popdown-delay after class was initialised
+
+(lxterminal:2574): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-label-select-on-focus after class was initialised
+
+(lxterminal:2574): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-menu-images after class was initialised
+
+(lxterminal:2574): GLib-GObject-WARNING **: Attempt to add property GtkSettings::gtk-button-images after class was initialised
+
+(lxpanel:2456): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 19749 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 15301 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 22457 was not found when attempting to remove it
+
+(epiphany-browser:2497): GLib-CRITICAL **: Source ID 22869 was not found when attempting to remove it
+
+** (epiphany-browser:2497): WARNING **: Error saving EphyNodeDB as XML: Failed to create file '/home/pi/.config/epiphany/ephy-bookmarks.xml.V8GX0X': No such file or directory
